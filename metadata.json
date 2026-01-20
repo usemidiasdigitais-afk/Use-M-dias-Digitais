@@ -1,0 +1,7 @@
+{
+  "name": "Use Mídias Digitais",
+  "description": "Site institucional da agência Use Mídias Digitais, especializado em criação de sites, SEO e tráfego pago.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
